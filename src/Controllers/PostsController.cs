@@ -7,53 +7,52 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StarCrew.Data;
 using StarCrew.Models;
-using static BCrypt.Net.BCrypt;
 
 namespace starcrew_dotnet.src.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UsersController : ControllerBase
+    public class PostsController : ControllerBase
     {
         private readonly AppDbContext _context;
 
-        public UsersController(AppDbContext context)
+        public PostsController(AppDbContext context)
         {
             _context = context;
         }
 
-        // GET: api/Users
+        // GET: api/Posts
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<User>>> GetUsers()
+        public async Task<ActionResult<IEnumerable<Post>>> GetPosts()
         {
-            return await _context.Users.ToListAsync();
+            return await _context.Posts.ToListAsync();
         }
 
-        // GET: api/Users/5
+        // GET: api/Posts/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<User>> GetUser(int id)
+        public async Task<ActionResult<Post>> GetPost(int id)
         {
-            var user = await _context.Users.FindAsync(id);
+            var post = await _context.Posts.FindAsync(id);
 
-            if (user == null)
+            if (post == null)
             {
                 return NotFound();
             }
 
-            return user;
+            return post;
         }
 
-        // PUT: api/Users/5
+        // PUT: api/Posts/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutUser(int id, User user)
+        public async Task<IActionResult> PutPost(int id, Post post)
         {
-            if (id != user.Id)
+            if (id != post.Id)
             {
                 return BadRequest();
             }
 
-            _context.Entry(user).State = EntityState.Modified;
+            _context.Entry(post).State = EntityState.Modified;
 
             try
             {
@@ -61,7 +60,7 @@ namespace starcrew_dotnet.src.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!UserExists(id))
+                if (!PostExists(id))
                 {
                     return NotFound();
                 }
@@ -74,37 +73,36 @@ namespace starcrew_dotnet.src.Controllers
             return NoContent();
         }
 
-        // POST: api/Users
+        // POST: api/Posts
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<User>> PostUser(User user)
+        public async Task<ActionResult<Post>> PostPost(Post post)
         {
-            user.Password_hash = HashPassword(user.Password_hash);
-            _context.Users.Add(user);
+            _context.Posts.Add(post);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetUser", new { id = user.Id }, user);
+            return CreatedAtAction("GetPost", new { id = post.Id }, post);
         }
 
-        // DELETE: api/Users/5
+        // DELETE: api/Posts/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteUser(int id)
+        public async Task<IActionResult> DeletePost(int id)
         {
-            var user = await _context.Users.FindAsync(id);
-            if (user == null)
+            var post = await _context.Posts.FindAsync(id);
+            if (post == null)
             {
                 return NotFound();
             }
 
-            _context.Users.Remove(user);
+            _context.Posts.Remove(post);
             await _context.SaveChangesAsync();
 
             return NoContent();
         }
 
-        private bool UserExists(int id)
+        private bool PostExists(int id)
         {
-            return _context.Users.Any(e => e.Id == id);
+            return _context.Posts.Any(e => e.Id == id);
         }
     }
 }
