@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using StarCrew.Data;
 using StarCrew.Models;
 
-namespace starcrew_dotnet.src.Controllers
+namespace StarCrew.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

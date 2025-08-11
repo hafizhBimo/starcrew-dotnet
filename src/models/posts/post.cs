@@ -11,7 +11,7 @@ public class Post
 
     [Column("user_id")]
     public int User_id { get; set; }
-    public User? User { get; set; } // Navigation property
+    // public User? User { get; set; } // Navigation property
 
     [Column("content")]
     public string? Content { get; set; }

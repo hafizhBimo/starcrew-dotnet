@@ -9,7 +9,7 @@ using StarCrew.Data;
 using StarCrew.Models;
 using static BCrypt.Net.BCrypt;
 
-namespace starcrew_dotnet.src.Controllers
+namespace StarCrew.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
