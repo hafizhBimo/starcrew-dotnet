@@ -1,0 +1,2165 @@
+¯
+StarCrew.Models.User.User()_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs ("0*W
+0;
+9
+
+%0void"object.Object()*
+StarCrew.Models.User"
+implicit returnB
+StarCrew.Models.UserX`¯
+StarCrew.Models.Post.Post()_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ("0*W
+0;
+9
+
+%0void"object.Object()*
+StarCrew.Models.Post"
+implicit returnB
+StarCrew.Models.PostX`ò
+StarCrew.Models.User.Id.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	("0*ˆ
+0	 	(§
+°
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*'%*#
+StarCrew.Models.User"	
+IdintI
+G
+ 	(#
+StarCrew.Models.User"	
+Idint"__annotation*
+
+%0Ç
+ˇ
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	(
+%retint"__id*à
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	(%*#
+StarCrew.Models.User"	
+Idint"p
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	(
+
+%retintB
+StarCrew.Models.UserX`€
+StarCrew.Models.Post.Id.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+("0*©
+0
+ 
+(°
+û
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+(#
+StarCrew.Models.Post"	
+Idint"__id*
+
+valueint"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+(
+implicit return:
+valueintB
+StarCrew.Models.PostX`ò
+StarCrew.Models.Post.Id.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+("0*ˆ
+0
+ 
+(§
+°
+	 	(
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*'%*#
+StarCrew.Models.Post"	
+IdintI
+G
+	 
+(#
+StarCrew.Models.Post"	
+Idint"__annotation*
+
+%0Ç
+ˇ
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+(
+%retint"__id*à
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+(%*#
+StarCrew.Models.Post"	
+Idint"p
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+ 
+(
+
+%retintB
+StarCrew.Models.PostX`¨
+ StarCrew.Models.Post.User_id.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ("0*Ö
+0 (©
+¶
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*,**(
+StarCrew.Models.Post"
+User_idintN
+L
+ ($(
+StarCrew.Models.Post"
+User_idint"__annotation*
+
+%0á
+Ñ
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (
+%retint"__id*ç
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (**(
+StarCrew.Models.Post"
+User_idint"p
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (
+
+%retintB
+StarCrew.Models.PostX`€
+StarCrew.Models.User.Id.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	("0*©
+0	 	(°
+û
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	(#
+StarCrew.Models.User"	
+Idint"__id*
+
+valueint"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs	 	(
+implicit return:
+valueintB
+StarCrew.Models.UserX`Â
+ StarCrew.Models.Post.User_id.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (!"0*Æ
+0" ("¶
+£
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (!(
+StarCrew.Models.Post"
+User_idint"__id*
+
+valueint"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (!
+implicit return:
+valueintB
+StarCrew.Models.PostX`ª
+ StarCrew.Models.Post.Content.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ( "0*ñ
+0! (!¨
+©
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*/-*+
+StarCrew.Models.Post"
+ContentstringQ
+O
+ ((+
+StarCrew.Models.Post"
+Contentstring"__annotation*
+
+%0é
+ã
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ( 
+%retstring?"__id*ê
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ( -*+
+StarCrew.Models.Post"
+Contentstring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ( 
+
+%retstring?B
+StarCrew.Models.Post`ø
+!StarCrew.Models.User.Username.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!"0*ô
+0" ("≠
+™
+
+ 
+(
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*0.*,
+StarCrew.Models.User"
+UsernamestringR
+P
+
+ (),
+StarCrew.Models.User"
+Usernamestring"__annotation*
+
+%0è
+å
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!
+%retstring?"__id*ë
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!.*,
+StarCrew.Models.User"
+Usernamestring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!
+
+%retstring?B
+StarCrew.Models.User`√
+"StarCrew.Models.Post.Image_url.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs (""0*ú
+0# (#Æ
+´
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*1/*-
+StarCrew.Models.Post"
+	Image_urlstringS
+Q
+ (*-
+StarCrew.Models.Post"
+	Image_urlstring"__annotation*
+
+%0ê
+ç
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ("
+%retstring?"__id*í
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ("/*-
+StarCrew.Models.Post"
+	Image_urlstring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs ("
+
+%retstring?B
+StarCrew.Models.Post`Ú
+"StarCrew.Models.Post.Image_url.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs$ ('"0*∂
+0( ((Æ
+´
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs$ ('-
+StarCrew.Models.Post"
+	Image_urlstring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs$ ('
+implicit return:
+valuestringB
+StarCrew.Models.PostX`Ó
+ StarCrew.Models.Post.Content.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs" (%"0*¥
+0& (&¨
+©
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs" (%+
+StarCrew.Models.Post"
+Contentstring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs" (%
+implicit return:
+valuestringB
+StarCrew.Models.PostX`è
+#StarCrew.Models.Post.Created_at.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs& ()"0*…
+0* (*¡
+æ
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs& ()7
+StarCrew.Models.Post"
+
+Created_atSystem.DateTime"__id*
+
+valueSystem.DateTime"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs& ()
+implicit return:
+valueSystem.DateTimeB
+StarCrew.Models.PostX`Ú
+#StarCrew.Models.Post.Created_at.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs! ($"0* 
+0% (%∏
+µ
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*;9*7
+StarCrew.Models.Post"
+
+Created_atSystem.DateTime]
+[
+ (,7
+StarCrew.Models.Post"
+
+Created_atSystem.DateTime"__annotation*
+
+%0¢
+ü
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs! ($
+%retSystem.DateTime"__id*ú
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs! ($9*7
+StarCrew.Models.Post"
+
+Created_atSystem.DateTime"|
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs! ($
+
+%retSystem.DateTimeB
+StarCrew.Models.Post`
+!StarCrew.Models.User.Username.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&"0*µ
+0' ('≠
+™
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&,
+StarCrew.Models.User"
+Usernamestring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&
+implicit return:
+valuestringB
+StarCrew.Models.UserX`≥
+StarCrew.Models.User.Email.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs ("0*ê
+0 (™
+ß
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*-+*)
+StarCrew.Models.User"
+EmailstringO
+M
+ (&)
+StarCrew.Models.User"
+Emailstring"__annotation*
+
+%0å
+â
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (
+%retstring?"__id*é
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (+*)
+StarCrew.Models.User"
+Emailstring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (
+
+%retstring?B
+StarCrew.Models.User`”
+&StarCrew.Models.User.Password_hash.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&"0*®
+0' ('≤
+Ø
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*53*1
+StarCrew.Models.User"
+Password_hashstringW
+U
+ (.1
+StarCrew.Models.User"
+Password_hashstring"__annotation*
+
+%0î
+ë
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&
+%retstring?"__id*ñ
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&3*1
+StarCrew.Models.User"
+Password_hashstring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs# (&
+
+%retstring?B
+StarCrew.Models.User`Í
+StarCrew.Models.User.Email.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#"0*≤
+0$ ($™
+ß
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#)
+StarCrew.Models.User"
+Emailstring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#
+implicit return:
+valuestringB
+StarCrew.Models.UserX`˙
+&StarCrew.Models.User.Password_hash.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs( (+"0*∫
+0, (,≤
+Ø
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs( (+1
+StarCrew.Models.User"
+Password_hashstring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs( (+
+implicit return:
+valuestringB
+StarCrew.Models.UserX`´
+StarCrew.Models.User.Bio.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs ("0*ä
+0 (®
+•
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*+)*'
+StarCrew.Models.User"
+BiostringM
+K
+ ($'
+StarCrew.Models.User"
+Biostring"__annotation*
+
+%0ä
+á
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (
+%retstring?"__id*å
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs ()*'
+StarCrew.Models.User"
+Biostring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (
+
+%retstring?B
+StarCrew.Models.User`«
+#StarCrew.Models.User.Avatar_url.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#"0*ü
+0$ ($Ø
+¨
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*20*.
+StarCrew.Models.User"
+
+Avatar_urlstringT
+R
+ (+.
+StarCrew.Models.User"
+
+Avatar_urlstring"__annotation*
+
+%0ë
+é
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#
+%retstring?"__id*ì
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#0*.
+StarCrew.Models.User"
+
+Avatar_urlstring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#
+
+%retstring?B
+StarCrew.Models.User`Ù
+#StarCrew.Models.User.Avatar_url.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs% (("0*∑
+0) ()Ø
+¨
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs% ((.
+StarCrew.Models.User"
+
+Avatar_urlstring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs% ((
+implicit return:
+valuestringB
+StarCrew.Models.UserX`Ê
+StarCrew.Models.User.Bio.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!"0*∞
+0" ("®
+•
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!'
+StarCrew.Models.User"
+Biostring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs (!
+implicit return:
+valuestringB
+StarCrew.Models.UserX`Ú
+#StarCrew.Models.User.Created_at.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($"0* 
+0% (%∏
+µ
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*;9*7
+StarCrew.Models.User"
+
+Created_atSystem.DateTime]
+[
+ (,7
+StarCrew.Models.User"
+
+Created_atSystem.DateTime"__annotation*
+
+%0¢
+ü
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($
+%retSystem.DateTime"__id*ú
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($9*7
+StarCrew.Models.User"
+
+Created_atSystem.DateTime"|
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($
+
+%retSystem.DateTimeB
+StarCrew.Models.User`è
+#StarCrew.Models.User.Created_at.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs& ()"0*…
+0* (*¡
+æ
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs& ()7
+StarCrew.Models.User"
+
+Created_atSystem.DateTime"__id*
+
+valueSystem.DateTime"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs& ()
+implicit return:
+valueSystem.DateTimeB
+StarCrew.Models.UserX`…
+&StarCrew.Models.User.Is_superadmin.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#"0*ú
+0$ ($∞
+≠
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*31*/
+StarCrew.Models.User"
+Is_superadminboolU
+S
+ (+/
+StarCrew.Models.User"
+Is_superadminbool"__annotation*
+
+%0è
+å
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#
+%retbool"__id*î
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#1*/
+StarCrew.Models.User"
+Is_superadminbool"q
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs  (#
+
+%retboolB
+StarCrew.Models.UserX`Ù
+&StarCrew.Models.User.Is_superadmin.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs% (("0*∂
+0) ()Æ
+´
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs% ((/
+StarCrew.Models.User"
+Is_superadminbool"__id*
+
+valuebool"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs% ((
+implicit return:
+valueboolB
+StarCrew.Models.UserX`À
+$StarCrew.Models.User.Public_name.get_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($"0*¢
+0% (%∞
+≠
+ (
+%0"
+__annotate*ZXV
+TSystem.ComponentModel.DataAnnotations.Schema.ColumnAttribute.ColumnAttribute(string)*31*/
+StarCrew.Models.User"
+Public_namestringU
+S
+ (,/
+StarCrew.Models.User"
+Public_namestring"__annotation*
+
+%0í
+è
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($
+%retstring?"__id*î
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($1*/
+StarCrew.Models.User"
+Public_namestring"t
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs! ($
+
+%retstring?B
+StarCrew.Models.User`ˆ
+$StarCrew.Models.User.Public_name.set_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs& ()"0*∏
+0* (*∞
+≠
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs& ()/
+StarCrew.Models.User"
+Public_namestring"__id*
+
+valuestring"v
+_
+U/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs& ()
+implicit return:
+valuestringB
+StarCrew.Models.UserX`⁄
+$StarCrew.Data.AppDbContext.Users.geta
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+ 
+(""0*©
+0
+# 
+(#Ó
+Î
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+ 
+("A
+%ret9Microsoft.EntityFrameworkCore.DbSet<StarCrew.Models.User>"__id*º
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+ 
+("W*U
+StarCrew.Data.AppDbContext"5
+Users,Microsoft.EntityFrameworkCore.DbSet<TEntity>"®
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+ 
+("C
+A
+%ret9Microsoft.EntityFrameworkCore.DbSet<StarCrew.Models.User>B
+StarCrew.Data.AppDbContext`≤
+sStarCrew.Data.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<StarCrew.Data.AppDbContext>)a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs ("0*
+0 (*
+1*ù
+1@ (Oà
+Ö
+@ (O
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*7
+@ (O+)
+'Microsoft.EntityFrameworkCore.DbContext*Q
+G (NE
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*.
+2S (S"
+R (S
+implicit return:O
+ (>C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B
+StarCrew.Data.AppDbContextXö
+PStarCrew.Controllers.PostsController.PostsController(StarCrew.Data.AppDbContext)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.cs ("0*
+0 (*
+1*¥
+1 (å
+â
+ (	
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*7
+ (	+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseê
+ç
+ (P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext"__id*)'
+%
+contextStarCrew.Data.AppDbContext*
+2*.
+2	 (	"
+ (	
+implicit return:1
+ (3%
+contextStarCrew.Data.AppDbContextB(&
+$StarCrew.Controllers.PostsControllerXö
+PStarCrew.Controllers.UsersController.UsersController(StarCrew.Data.AppDbContext)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.cs ("0*
+0 (*
+1*¥
+1 (å
+â
+ (	
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*7
+ (	+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseê
+ç
+ (P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext"__id*)'
+%
+contextStarCrew.Data.AppDbContext*
+2*.
+2	 (	"
+ (	
+implicit return:1
+ (3%
+contextStarCrew.Data.AppDbContextB(&
+$StarCrew.Controllers.UsersControllerXÙ
+$StarCrew.Data.AppDbContext.Users.seta
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+$ 
+('"0*à
+0
+( 
+((˛
+˚
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+$ 
+('U
+StarCrew.Data.AppDbContext"5
+Users,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"x
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+$ 
+('
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B
+StarCrew.Data.AppDbContextX`⁄
+$StarCrew.Data.AppDbContext.Posts.geta
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs (""0*©
+0# (#Ó
+Î
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs ("A
+%ret9Microsoft.EntityFrameworkCore.DbSet<StarCrew.Models.Post>"__id*º
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs ("W*U
+StarCrew.Data.AppDbContext"5
+Posts,Microsoft.EntityFrameworkCore.DbSet<TEntity>"®
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs ("C
+A
+%ret9Microsoft.EntityFrameworkCore.DbSet<StarCrew.Models.Post>B
+StarCrew.Data.AppDbContext`Ù
+$StarCrew.Data.AppDbContext.Posts.seta
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs$ ('"0*à
+0( ((˛
+˚
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs$ ('U
+StarCrew.Data.AppDbContext"5
+Posts,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"x
+a
+W/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs$ ('
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B
+StarCrew.Data.AppDbContextX`ó	
+/StarCrew.Controllers.PostsController.GetPosts()i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.cs; (C"0*4
+0 ( 
+
+; (C
+%0"__entrypoint*
+1*È
+1 (5«
+ƒ
+ ('2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Posts.get*^
+ (!R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContextÆ
+´
+ (5*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)* *@
+ ('4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+ (5 Ÿ
+÷
+ (5â
+%retÄSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<StarCrew.Models.Post>>>"__id*8
+ (5,
+*
+%2$System.Threading.Tasks.Task<TResult>*
+2*©
+2	 (	"ô
+ (	å
+â
+%retÄSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<StarCrew.Models.Post>>>B(&
+$StarCrew.Controllers.PostsControlleró	
+/StarCrew.Controllers.UsersController.GetUsers()i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.cs; (C"0*4
+0 ( 
+
+; (C
+%0"__entrypoint*
+1*È
+1 (5«
+ƒ
+ ('2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Users.get*^
+ (!R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContextÆ
+´
+ (5*
+%2$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)* *@
+ ('4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+ (5 Ÿ
+÷
+ (5â
+%retÄSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<StarCrew.Models.User>>>"__id*8
+ (5,
+*
+%2$System.Threading.Tasks.Task<TResult>*
+2*©
+2	 (	"ô
+ (	å
+â
+%retÄSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<System.Collections.Generic.IEnumerable<StarCrew.Models.User>>>B(&
+$StarCrew.Controllers.UsersController˙
+1StarCrew.Controllers.PostsController.GetPost(int)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.cs!. !(5"0*Ì
+0   (/
+-
+!. !(5
+%0"__entrypoint*
+	
+idintw
+u
+ 	  (
+%1"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+	
+idint/
+-
+!6 !(<	
+idint"__annotation*
+
+%1*
+1*Ó
+1# %(«
+ƒ
+# #(+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Posts.get*^
+# #(%R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext(&
+# #(9
+%3	object?[]"	object?[]Ö
+Ç
+#6 #(8
+
+%4void",System.Array.SetValue(object?, params int[])*
+# #(9
+
+%3	object?[]*
+#6 #(8
+	
+idint*2 àÖ
+# #(9/
+%5)System.Threading.Tasks.ValueTask<TResult>"IMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object?[]?)*@
+# #(+4
+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+# #(9
+
+%3	object?[]2FindAsync(params object?[]?)e
+c
+# #(9
+postStarCrew.Models.Post"__id*31
+/
+%5)System.Threading.Tasks.ValueTask<TResult>i
+g
+% %(
+
+%6bool"	__compare*
+==**
+% %(
+
+postStarCrew.Models.Post*
+% %( *
+2
+3*¸
+2' '(!≤Ø
+' '(!-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*4
+' '((&
+$StarCrew.Controllers.PostsController2
+NotFound()≤
+Ø
+' '(!`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.Post>>"__id*;
+' '(!/
+-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult*
+4*∂
+3* *(°
+û
+* *(`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.Post>>"__id**
+* *(
+
+postStarCrew.Models.Post*
+4*}
+4+	 +(	"n
++ +(	b
+`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.Post>>:
+!6 !(<	
+idintB(&
+$StarCrew.Controllers.PostsController˙
+1StarCrew.Controllers.UsersController.GetUser(int)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.cs". "(5"0*Ì
+0! !(/
+-
+". "(5
+%0"__entrypoint*
+	
+idintw
+u
+!	 !(
+%1"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+	
+idint/
+-
+"6 "(<	
+idint"__annotation*
+
+%1*
+1*Ó
+1$ &(«
+ƒ
+$ $(+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Users.get*^
+$ $(%R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext(&
+$ $(9
+%3	object?[]"	object?[]Ö
+Ç
+$6 $(8
+
+%4void",System.Array.SetValue(object?, params int[])*
+$ $(9
+
+%3	object?[]*
+$6 $(8
+	
+idint*2 àÖ
+$ $(9/
+%5)System.Threading.Tasks.ValueTask<TResult>"IMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object?[]?)*@
+$ $(+4
+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+$ $(9
+
+%3	object?[]2FindAsync(params object?[]?)e
+c
+$ $(9
+userStarCrew.Models.User"__id*31
+/
+%5)System.Threading.Tasks.ValueTask<TResult>i
+g
+& &(
+
+%6bool"	__compare*
+==**
+& &(
+
+userStarCrew.Models.User*
+& &( *
+2
+3*¸
+2( ((!≤Ø
+( ((!-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*4
+( (((&
+$StarCrew.Controllers.UsersController2
+NotFound()≤
+Ø
+( ((!`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.User>>"__id*;
+( ((!/
+-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult*
+4*∂
+3+ +(°
+û
++ +(`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.User>>"__id**
++ +(
+
+userStarCrew.Models.User*
+4*}
+4,	 ,(	"n
+, ,(	b
+`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.User>>:
+"6 "(<	
+idintB(&
+$StarCrew.Controllers.UsersControllerˇ"
+GStarCrew.Controllers.PostsController.PutPost(int, StarCrew.Models.Post)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.cs0) 0(0"0*∞
+
+0/ /(/
+-
+0) 0(0
+%0"__entrypoint*
+	
+idintV
+T
+0) 0(0:
+
+postStarCrew.Models.Post"
+<Id>k__BackingFieldint"__entrypointE
+C
+0) 0(0)
+
+postStarCrew.Models.Post"	
+Idint"__entrypoint[
+Y
+0) 0(0?
+
+postStarCrew.Models.Post"
+<User_id>k__BackingFieldint"__entrypointJ
+H
+0) 0(0.
+
+postStarCrew.Models.Post"
+User_idint"__entrypoint^
+\
+0) 0(0B
+
+postStarCrew.Models.Post""
+<Content>k__BackingFieldstring"__entrypointM
+K
+0) 0(01
+
+postStarCrew.Models.Post"
+Contentstring"__entrypoint`
+^
+0) 0(0D
+
+postStarCrew.Models.Post"$
+<Image_url>k__BackingFieldstring"__entrypointO
+M
+0) 0(03
+
+postStarCrew.Models.Post"
+	Image_urlstring"__entrypointj
+h
+0) 0(0N
+
+postStarCrew.Models.Post".
+<Created_at>k__BackingFieldSystem.DateTime"__entrypointY
+W
+0) 0(0=
+
+postStarCrew.Models.Post"
+
+Created_atSystem.DateTime"__entrypointw
+u
+/	 /(
+%1"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)*
+	
+idint/
+-
+01 0(7	
+idint"__annotation*
+
+%1ã
+à
+/	 /(
+%2"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)* 
+
+postStarCrew.Models.PostB
+@
+09 0(B
+postStarCrew.Models.Post"__annotation*
+
+%2*
+1*ÿ
+12 2(`
+^
+2 2(	
+%3int"StarCrew.Models.Post.Id.get**
+2 2(
+
+postStarCrew.Models.Post_
+]
+2 2(
+
+%4bool"	__compare*
+!=*
+2 2(
+	
+idint*
+2 2(
+	
+%3int*
+2
+3*€
+24 4(#∏µ
+4 4(#/
+%5)Microsoft.AspNetCore.Mvc.BadRequestResult"4Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest()*4
+4 4(!(&
+$StarCrew.Controllers.PostsController2BadRequest()j
+h
+4 4(#
+
+%6void"__asp_net_controller_return*31
+/
+%5)Microsoft.AspNetCore.Mvc.BadRequestResultü
+ú
+4 4(#K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+4 4(#1
+/
+%5)Microsoft.AspNetCore.Mvc.BadRequestResult*
+8*¿
+37 7(>ºπ
+7 7( G
+%7AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"?Microsoft.EntityFrameworkCore.DbContext.Entry<TEntity>(TEntity)*^
+7 7(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext**
+7 7(
+
+postStarCrew.Models.Post2Entry<TEntity>(TEntity)ÏÈ
+7 7(=/
+%8)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*U
+7 7( I
+G
+%7AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*22	State.set*
+4*’
+4; ;(2Ω∫
+; ;(1*
+%9$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*^
+; ;(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext*
+; ;(1 24SaveChangesAsync(System.Threading.CancellationToken)*
+7
+5*¥
+5? ?(#ü
+ú
+? ?(#
+%10bool"4StarCrew.Controllers.PostsController.PostExists(int)*4
+? ?((&
+$StarCrew.Controllers.PostsController*
+?  ?("
+	
+idint*
+6*’
+6A A(%≥∞
+A A(%.
+%11'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*4
+A A(#(&
+$StarCrew.Controllers.PostsController2
+NotFound()j
+h
+A A(%
+%12void"__asp_net_controller_return*20
+.
+%11'Microsoft.AspNetCore.Mvc.NotFoundResultû
+õ
+A A(%K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*<
+A A(%0
+.
+%11'Microsoft.AspNetCore.Mvc.NotFoundResult*
+8*⁄
+7I I(∂≥
+I I(/
+%13(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*4
+I I((&
+$StarCrew.Controllers.PostsController2NoContent()k
+i
+I I(
+%14void"__asp_net_controller_return*31
+/
+%13(Microsoft.AspNetCore.Mvc.NoContentResultü
+ú
+I I(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+I I(1
+/
+%13(Microsoft.AspNetCore.Mvc.NoContentResult*
+8*h
+8J	 J(	"Y
+J J(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:
+01 0(7	
+idint:(
+09 0(B
+postStarCrew.Models.PostB(&
+$StarCrew.Controllers.PostsControllerû'
+GStarCrew.Controllers.UsersController.PutUser(int, StarCrew.Models.User)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.cs1) 1(0"0*œ
+00 0(/
+-
+1) 1(0
+%0"__entrypoint*
+	
+idintV
+T
+1) 1(0:
+
+userStarCrew.Models.User"
+<Id>k__BackingFieldint"__entrypointE
+C
+1) 1(0)
+
+userStarCrew.Models.User"	
+Idint"__entrypoint_
+]
+1) 1(0C
+
+userStarCrew.Models.User"#
+<Username>k__BackingFieldstring"__entrypointN
+L
+1) 1(02
+
+userStarCrew.Models.User"
+Usernamestring"__entrypoint\
+Z
+1) 1(0@
+
+userStarCrew.Models.User" 
+<Email>k__BackingFieldstring"__entrypointK
+I
+1) 1(0/
+
+userStarCrew.Models.User"
+Emailstring"__entrypointd
+b
+1) 1(0H
+
+userStarCrew.Models.User"(
+<Password_hash>k__BackingFieldstring"__entrypointS
+Q
+1) 1(07
+
+userStarCrew.Models.User"
+Password_hashstring"__entrypointZ
+X
+1) 1(0>
+
+userStarCrew.Models.User"
+<Bio>k__BackingFieldstring"__entrypointI
+G
+1) 1(0-
+
+userStarCrew.Models.User"
+Biostring"__entrypointa
+_
+1) 1(0E
+
+userStarCrew.Models.User"%
+<Avatar_url>k__BackingFieldstring"__entrypointP
+N
+1) 1(04
+
+userStarCrew.Models.User"
+
+Avatar_urlstring"__entrypointj
+h
+1) 1(0N
+
+userStarCrew.Models.User".
+<Created_at>k__BackingFieldSystem.DateTime"__entrypointY
+W
+1) 1(0=
+
+userStarCrew.Models.User"
+
+Created_atSystem.DateTime"__entrypointb
+`
+1) 1(0F
+
+userStarCrew.Models.User"&
+<Public_name>k__BackingFieldstring"__entrypointQ
+O
+1) 1(05
+
+userStarCrew.Models.User"
+Public_namestring"__entrypointw
+u
+0	 0(
+%1"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)*
+	
+idint/
+-
+11 1(7	
+idint"__annotation*
+
+%1ã
+à
+0	 0(
+%2"
+__annotate*HFD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)* 
+
+userStarCrew.Models.UserB
+@
+19 1(B
+userStarCrew.Models.User"__annotation*
+
+%2*
+1*ÿ
+13 3(`
+^
+3 3(	
+%3int"StarCrew.Models.User.Id.get**
+3 3(
+
+userStarCrew.Models.User_
+]
+3 3(
+
+%4bool"	__compare*
+!=*
+3 3(
+	
+idint*
+3 3(
+	
+%3int*
+2
+3*€
+25 5(#∏µ
+5 5(#/
+%5)Microsoft.AspNetCore.Mvc.BadRequestResult"4Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest()*4
+5 5(!(&
+$StarCrew.Controllers.UsersController2BadRequest()j
+h
+5 5(#
+
+%6void"__asp_net_controller_return*31
+/
+%5)Microsoft.AspNetCore.Mvc.BadRequestResultü
+ú
+5 5(#K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+5 5(#1
+/
+%5)Microsoft.AspNetCore.Mvc.BadRequestResult*
+8*¿
+38 8(>ºπ
+8 8( G
+%7AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"?Microsoft.EntityFrameworkCore.DbContext.Entry<TEntity>(TEntity)*^
+8 8(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext**
+8 8(
+
+userStarCrew.Models.User2Entry<TEntity>(TEntity)ÏÈ
+8 8(=/
+%8)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*U
+8 8( I
+G
+%7AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*22	State.set*
+4*’
+4< <(2Ω∫
+< <(1*
+%9$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*^
+< <(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext*
+< <(1 24SaveChangesAsync(System.Threading.CancellationToken)*
+7
+5*¥
+5@ @(#ü
+ú
+@ @(#
+%10bool"4StarCrew.Controllers.UsersController.UserExists(int)*4
+@ @((&
+$StarCrew.Controllers.UsersController*
+@  @("
+	
+idint*
+6*’
+6B B(%≥∞
+B B(%.
+%11'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*4
+B B(#(&
+$StarCrew.Controllers.UsersController2
+NotFound()j
+h
+B B(%
+%12void"__asp_net_controller_return*20
+.
+%11'Microsoft.AspNetCore.Mvc.NotFoundResultû
+õ
+B B(%K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*<
+B B(%0
+.
+%11'Microsoft.AspNetCore.Mvc.NotFoundResult*
+8*⁄
+7J J(∂≥
+J J(/
+%13(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*4
+J J((&
+$StarCrew.Controllers.UsersController2NoContent()k
+i
+J J(
+%14void"__asp_net_controller_return*31
+/
+%13(Microsoft.AspNetCore.Mvc.NoContentResultü
+ú
+J J(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+J J(1
+/
+%13(Microsoft.AspNetCore.Mvc.NoContentResult*
+8*h
+8K	 K(	"Y
+K K(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:
+11 1(7	
+idint:(
+19 1(B
+userStarCrew.Models.UserB(&
+$StarCrew.Controllers.UsersControllerÿ
+CStarCrew.Controllers.PostsController.PostPost(StarCrew.Models.Post)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.csO. O(6"0*—
+0N N(V
+T
+O. O(6:
+
+postStarCrew.Models.Post"
+<Id>k__BackingFieldint"__entrypointE
+C
+O. O(6)
+
+postStarCrew.Models.Post"	
+Idint"__entrypoint[
+Y
+O. O(6?
+
+postStarCrew.Models.Post"
+<User_id>k__BackingFieldint"__entrypointJ
+H
+O. O(6.
+
+postStarCrew.Models.Post"
+User_idint"__entrypoint^
+\
+O. O(6B
+
+postStarCrew.Models.Post""
+<Content>k__BackingFieldstring"__entrypointM
+K
+O. O(61
+
+postStarCrew.Models.Post"
+Contentstring"__entrypoint`
+^
+O. O(6D
+
+postStarCrew.Models.Post"$
+<Image_url>k__BackingFieldstring"__entrypointO
+M
+O. O(63
+
+postStarCrew.Models.Post"
+	Image_urlstring"__entrypointj
+h
+O. O(6N
+
+postStarCrew.Models.Post".
+<Created_at>k__BackingFieldSystem.DateTime"__entrypointY
+W
+O. O(6=
+
+postStarCrew.Models.Post"
+
+Created_atSystem.DateTime"__entrypointá
+Ñ
+N	 N(
+%0"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()* 
+
+postStarCrew.Models.PostB
+@
+O7 O(@
+postStarCrew.Models.Post"__annotation*
+
+%0*
+1*¨
+1Q R(.«
+ƒ
+Q Q(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Posts.get*^
+Q Q(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContextçä
+Q Q($G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*@
+Q Q(4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>**
+Q Q(#
+
+postStarCrew.Models.Post2Add(TEntity)Ω∫
+R R(-*
+%3$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*^
+R R(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext*
+R R(- 24SaveChangesAsync(System.Threading.CancellationToken)*
+2*Ã
+2T T(@q
+o
+T T("1
+	%capture0$StarCrew.Controllers.PostsController"__id**(&
+$StarCrew.Controllers.PostsController6
+4
+T# T(,
+	%capture1string"__id*	
+GetPost`
+^
+T9 T(@	
+%4int"StarCrew.Models.Post.Id.get**
+T9 T(=
+
+postStarCrew.Models.Post3
+1
+T9 T(@
+	%capture2int"__id*
+	
+%4intx
+v
+T4 T(@	
+%5int"<anonymous type: int id>.id.set*(
+T. T(B
+<anonymous type: int id>*
+
+	%capture2intFD
+T. T(B
+%6<anonymous type: int id>"<anonymous type: int id>˜Ù
+T T(I4
+%7.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"RMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string?, object?, object?)*?
+T T("3
+1
+	%capture0$StarCrew.Controllers.PostsController*
+T# T(,	
+GetPost*,
+T. T(B 
+
+%6<anonymous type: int id>**
+TD T(H
+
+postStarCrew.Models.Post2*CreatedAtAction(string?, object?, object?)π
+∂
+T T(I`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.Post>>"__id*B
+T T(I6
+4
+%7.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*
+3*}
+3U	 U(	"n
+U U(	b
+`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.Post>>:(
+O7 O(@
+postStarCrew.Models.PostB(&
+$StarCrew.Controllers.PostsController“!
+CStarCrew.Controllers.UsersController.PostUser(StarCrew.Models.User)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.csP. P(6"0*
+0O O(V
+T
+P. P(6:
+
+userStarCrew.Models.User"
+<Id>k__BackingFieldint"__entrypointE
+C
+P. P(6)
+
+userStarCrew.Models.User"	
+Idint"__entrypoint_
+]
+P. P(6C
+
+userStarCrew.Models.User"#
+<Username>k__BackingFieldstring"__entrypointN
+L
+P. P(62
+
+userStarCrew.Models.User"
+Usernamestring"__entrypoint\
+Z
+P. P(6@
+
+userStarCrew.Models.User" 
+<Email>k__BackingFieldstring"__entrypointK
+I
+P. P(6/
+
+userStarCrew.Models.User"
+Emailstring"__entrypointd
+b
+P. P(6H
+
+userStarCrew.Models.User"(
+<Password_hash>k__BackingFieldstring"__entrypointS
+Q
+P. P(67
+
+userStarCrew.Models.User"
+Password_hashstring"__entrypointZ
+X
+P. P(6>
+
+userStarCrew.Models.User"
+<Bio>k__BackingFieldstring"__entrypointI
+G
+P. P(6-
+
+userStarCrew.Models.User"
+Biostring"__entrypointa
+_
+P. P(6E
+
+userStarCrew.Models.User"%
+<Avatar_url>k__BackingFieldstring"__entrypointP
+N
+P. P(64
+
+userStarCrew.Models.User"
+
+Avatar_urlstring"__entrypointj
+h
+P. P(6N
+
+userStarCrew.Models.User".
+<Created_at>k__BackingFieldSystem.DateTime"__entrypointY
+W
+P. P(6=
+
+userStarCrew.Models.User"
+
+Created_atSystem.DateTime"__entrypointb
+`
+P. P(6F
+
+userStarCrew.Models.User"&
+<Public_name>k__BackingFieldstring"__entrypointQ
+O
+P. P(65
+
+userStarCrew.Models.User"
+Public_namestring"__entrypointá
+Ñ
+O	 O(
+%0"
+__annotate*DB@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()* 
+
+userStarCrew.Models.UserB
+@
+P7 P(@
+userStarCrew.Models.User"__annotation*
+
+%0*
+1*Ö	
+1R T(.n
+l
+R. R(@
+%1string"&StarCrew.Models.User.Password_hash.get**
+R. R(2
+
+userStarCrew.Models.Userd
+b
+R! R(A
+%2string"&BCrypt.Net.BCrypt.HashPassword(string)* *
+R. R(@
+
+%1stringÄ
+~
+R R(A
+%3string"&StarCrew.Models.User.Password_hash.set**
+R R(
+
+userStarCrew.Models.User*
+
+%2string«
+ƒ
+S S(2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Users.get*^
+S S(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContextçä
+S S($G
+%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*@
+S S(4
+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>**
+S S(#
+
+userStarCrew.Models.User2Add(TEntity)Ω∫
+T T(-*
+%6$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*^
+T T(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext*
+T T(- 24SaveChangesAsync(System.Threading.CancellationToken)*
+2*Œ
+2V V(@q
+o
+V V("1
+	%capture0$StarCrew.Controllers.UsersController"__id**(&
+$StarCrew.Controllers.UsersController6
+4
+V# V(,
+	%capture1string"__id*	
+GetUser`
+^
+V9 V(@	
+%7int"StarCrew.Models.User.Id.get**
+V9 V(=
+
+userStarCrew.Models.User3
+1
+V9 V(@
+	%capture2int"__id*
+	
+%7intx
+v
+V4 V(@	
+%8int"<anonymous type: int id>.id.set*(
+V. V(B
+<anonymous type: int id>*
+
+	%capture2intFD
+V. V(B
+%9<anonymous type: int id>"<anonymous type: int id>¯ı
+V V(I5
+%10.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"RMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string?, object?, object?)*?
+V V("3
+1
+	%capture0$StarCrew.Controllers.UsersController*
+V# V(,	
+GetUser*,
+V. V(B 
+
+%9<anonymous type: int id>**
+VD V(H
+
+userStarCrew.Models.User2*CreatedAtAction(string?, object?, object?)∫
+∑
+V V(I`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.User>>"__id*C
+V V(I7
+5
+%10.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*
+3*}
+3W	 W(	"n
+W W(	b
+`
+%retXSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.ActionResult<StarCrew.Models.User>>:(
+P7 P(@
+userStarCrew.Models.UserB(&
+$StarCrew.Controllers.UsersControllerâ
+4StarCrew.Controllers.UsersController.DeleteUser(int)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.cs[) [(3"0*Û
+0Z Z(/
+-
+[) [(3
+%0"__entrypoint*
+	
+idint}
+{
+Z	 Z(
+%1"
+__annotate*NLJ
+HMicrosoft.AspNetCore.Mvc.HttpDeleteAttribute.HttpDeleteAttribute(string)*
+	
+idint/
+-
+[4 [(:	
+idint"__annotation*
+
+%1*
+1*Ó
+1] ^(«
+ƒ
+] ](+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Users.get*^
+] ](%R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext(&
+] ](9
+%3	object?[]"	object?[]Ö
+Ç
+]6 ](8
+
+%4void",System.Array.SetValue(object?, params int[])*
+] ](9
+
+%3	object?[]*
+]6 ](8
+	
+idint*2 àÖ
+] ](9/
+%5)System.Threading.Tasks.ValueTask<TResult>"IMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object?[]?)*@
+] ](+4
+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+] ](9
+
+%3	object?[]2FindAsync(params object?[]?)e
+c
+] ](9
+userStarCrew.Models.User"__id*31
+/
+%5)System.Threading.Tasks.ValueTask<TResult>i
+g
+^ ^(
+
+%6bool"	__compare*
+==**
+^ ^(
+
+userStarCrew.Models.User*
+^ ^( *
+2
+3*—
+2` `(!≤Ø
+` `(!-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*4
+` `((&
+$StarCrew.Controllers.UsersController2
+NotFound()h
+f
+` `(!
+
+%8void"__asp_net_controller_return*1/
+-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResultù
+ö
+` `(!K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*;
+` `(!/
+-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult*
+4*¸	
+3c f(«
+ƒ
+c c(2
+%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Users.get*^
+c c(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContextîë
+c c('H
+%10AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*@
+c c(4
+2
+%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>**
+c" c(&
+
+userStarCrew.Models.User2Remove(TEntity)æª
+d d(-+
+%11$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*^
+d d(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContext*
+d d(- 24SaveChangesAsync(System.Threading.CancellationToken)∂≥
+f f(/
+%12(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*4
+f f((&
+$StarCrew.Controllers.UsersController2NoContent()k
+i
+f f(
+%13void"__asp_net_controller_return*31
+/
+%12(Microsoft.AspNetCore.Mvc.NoContentResultü
+ú
+f f(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+f f(1
+/
+%12(Microsoft.AspNetCore.Mvc.NoContentResult*
+4*h
+4g	 g(	"Y
+g g(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:
+[4 [(:	
+idintB(&
+$StarCrew.Controllers.UsersController∆
+4StarCrew.Controllers.PostsController.PostExists(int)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.csg g("0*
+0g g(*
+1*ù
+1i i(6«
+ƒ
+i i(!2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Posts.get*^
+i i(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContextÇ
+ˇ
+i i(6
+
+%1bool"ÉSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)* *@
+i i(!4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+i& i(5
+	{unknown}:
+8
+i i(6
+%retbool"__id*
+i i(6
+
+
+%1bool*
+2*)
+2j	 j(	"
+j j(	
+
+%retbool:
+g  g(&	
+idintB(&
+$StarCrew.Controllers.PostsControllerXâ
+4StarCrew.Controllers.PostsController.DeletePost(int)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.csY) Y(3"0*Û
+0X X(/
+-
+Y) Y(3
+%0"__entrypoint*
+	
+idint}
+{
+X	 X(
+%1"
+__annotate*NLJ
+HMicrosoft.AspNetCore.Mvc.HttpDeleteAttribute.HttpDeleteAttribute(string)*
+	
+idint/
+-
+Y4 Y(:	
+idint"__annotation*
+
+%1*
+1*Ó
+1[ \(«
+ƒ
+[ [(+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Posts.get*^
+[ [(%R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext(&
+[ [(9
+%3	object?[]"	object?[]Ö
+Ç
+[6 [(8
+
+%4void",System.Array.SetValue(object?, params int[])*
+[ [(9
+
+%3	object?[]*
+[6 [(8
+	
+idint*2 àÖ
+[ [(9/
+%5)System.Threading.Tasks.ValueTask<TResult>"IMicrosoft.EntityFrameworkCore.DbSet<TEntity>.FindAsync(params object?[]?)*@
+[ [(+4
+2
+%2,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+[ [(9
+
+%3	object?[]2FindAsync(params object?[]?)e
+c
+[ [(9
+postStarCrew.Models.Post"__id*31
+/
+%5)System.Threading.Tasks.ValueTask<TResult>i
+g
+\ \(
+
+%6bool"	__compare*
+==**
+\ \(
+
+postStarCrew.Models.Post*
+\ \( *
+2
+3*—
+2^ ^(!≤Ø
+^ ^(!-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*4
+^ ^((&
+$StarCrew.Controllers.PostsController2
+NotFound()h
+f
+^ ^(!
+
+%8void"__asp_net_controller_return*1/
+-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResultù
+ö
+^ ^(!K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*;
+^ ^(!/
+-
+%7'Microsoft.AspNetCore.Mvc.NotFoundResult*
+4*¸	
+3a d(«
+ƒ
+a a(2
+%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Posts.get*^
+a a(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContextîë
+a a('H
+%10AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*@
+a a(4
+2
+%9,Microsoft.EntityFrameworkCore.DbSet<TEntity>**
+a" a(&
+
+postStarCrew.Models.Post2Remove(TEntity)æª
+b b(-+
+%11$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*^
+b b(R*P&
+$StarCrew.Controllers.PostsController"&
+_contextStarCrew.Data.AppDbContext*
+b b(- 24SaveChangesAsync(System.Threading.CancellationToken)∂≥
+d d(/
+%12(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*4
+d d((&
+$StarCrew.Controllers.PostsController2NoContent()k
+i
+d d(
+%13void"__asp_net_controller_return*31
+/
+%12(Microsoft.AspNetCore.Mvc.NoContentResultü
+ú
+d d(K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>"__id*=
+d d(1
+/
+%12(Microsoft.AspNetCore.Mvc.NoContentResult*
+4*h
+4e	 e(	"Y
+e e(	M
+K
+%retCSystem.Threading.Tasks.Task<Microsoft.AspNetCore.Mvc.IActionResult>:
+Y4 Y(:	
+idintB(&
+$StarCrew.Controllers.PostsController∆
+4StarCrew.Controllers.UsersController.UserExists(int)i
+_/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.csi i("0*
+0i i(*
+1*ù
+1k k(6«
+ƒ
+k k(!2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"$StarCrew.Data.AppDbContext.Users.get*^
+k k(R*P&
+$StarCrew.Controllers.UsersController"&
+_contextStarCrew.Data.AppDbContextÇ
+ˇ
+k k(6
+
+%1bool"ÉSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)* *@
+k k(!4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+k& k(5
+	{unknown}:
+8
+k k(6
+%retbool"__id*
+k k(6
+
+
+%1bool*
+2*)
+2l	 l(	"
+l l(	
+
+%retbool:
+i  i(&	
+idintB(&
+$StarCrew.Controllers.UsersControllerX

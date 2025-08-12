@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("starcrew-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c7a2c7fd7660f338e66b847b474bb6d0292ba26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa4072ecf2c14d10e333a1b43973d40356ab201")]
 [assembly: System.Reflection.AssemblyProductAttribute("starcrew-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("starcrew-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

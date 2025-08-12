@@ -1,0 +1,59 @@
+1
+Programobject
+	Program()Program.Program()¯
+StarCrew.Models.Postobject%
+Post()StarCrew.Models.Post.Post()%
+Id.getStarCrew.Models.Post.Id.get%
+Id.setStarCrew.Models.Post.Id.set/
+User_id.get StarCrew.Models.Post.User_id.get/
+User_id.set StarCrew.Models.Post.User_id.set/
+Content.get StarCrew.Models.Post.Content.get/
+Content.set StarCrew.Models.Post.Content.set3
+Image_url.get"StarCrew.Models.Post.Image_url.get3
+Image_url.set"StarCrew.Models.Post.Image_url.set5
+Created_at.get#StarCrew.Models.Post.Created_at.get5
+Created_at.set#StarCrew.Models.Post.Created_at.setë
+StarCrew.Data.AppDbContext'Microsoft.EntityFrameworkCore.DbContextobjectÏ
+XAppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<StarCrew.Data.AppDbContext>)sStarCrew.Data.AppDbContext.AppDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<StarCrew.Data.AppDbContext>)1
+	Users.get$StarCrew.Data.AppDbContext.Users.get1
+	Users.set$StarCrew.Data.AppDbContext.Users.set1
+	Posts.get$StarCrew.Data.AppDbContext.Posts.get1
+	Posts.set$StarCrew.Data.AppDbContext.Posts.setç
+StarCrew.Models.Userobject%
+User()StarCrew.Models.User.User()%
+Id.getStarCrew.Models.User.Id.get%
+Id.setStarCrew.Models.User.Id.set1
+Username.get!StarCrew.Models.User.Username.get1
+Username.set!StarCrew.Models.User.Username.set+
+	Email.getStarCrew.Models.User.Email.get+
+	Email.setStarCrew.Models.User.Email.set;
+Password_hash.get&StarCrew.Models.User.Password_hash.get;
+Password_hash.set&StarCrew.Models.User.Password_hash.set'
+Bio.getStarCrew.Models.User.Bio.get'
+Bio.setStarCrew.Models.User.Bio.set5
+Avatar_url.get#StarCrew.Models.User.Avatar_url.get5
+Avatar_url.set#StarCrew.Models.User.Avatar_url.set5
+Created_at.get#StarCrew.Models.User.Created_at.get5
+Created_at.set#StarCrew.Models.User.Created_at.set;
+Is_superadmin.get&StarCrew.Models.User.Is_superadmin.get;
+Is_superadmin.set&StarCrew.Models.User.Is_superadmin.set7
+Public_name.get$StarCrew.Models.User.Public_name.get7
+Public_name.set$StarCrew.Models.User.Public_name.setÂ
+$StarCrew.Controllers.UsersController'Microsoft.AspNetCore.Mvc.ControllerBaseobject
++UsersController(StarCrew.Data.AppDbContext)PStarCrew.Controllers.UsersController.UsersController(StarCrew.Data.AppDbContext)=
+
+GetUsers()/StarCrew.Controllers.UsersController.GetUsers()A
+GetUser(int)1StarCrew.Controllers.UsersController.GetUser(int)m
+"PutUser(int, StarCrew.Models.User)GStarCrew.Controllers.UsersController.PutUser(int, StarCrew.Models.User)e
+PostUser(StarCrew.Models.User)CStarCrew.Controllers.UsersController.PostUser(StarCrew.Models.User)G
+DeleteUser(int)4StarCrew.Controllers.UsersController.DeleteUser(int)G
+UserExists(int)4StarCrew.Controllers.UsersController.UserExists(int)Â
+$StarCrew.Controllers.PostsController'Microsoft.AspNetCore.Mvc.ControllerBaseobject
++PostsController(StarCrew.Data.AppDbContext)PStarCrew.Controllers.PostsController.PostsController(StarCrew.Data.AppDbContext)=
+
+GetPosts()/StarCrew.Controllers.PostsController.GetPosts()A
+GetPost(int)1StarCrew.Controllers.PostsController.GetPost(int)m
+"PutPost(int, StarCrew.Models.Post)GStarCrew.Controllers.PostsController.PutPost(int, StarCrew.Models.Post)e
+PostPost(StarCrew.Models.Post)CStarCrew.Controllers.PostsController.PostPost(StarCrew.Models.Post)G
+DeletePost(int)4StarCrew.Controllers.PostsController.DeletePost(int)G
+PostExists(int)4StarCrew.Controllers.PostsController.PostExists(int)

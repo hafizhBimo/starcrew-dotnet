@@ -1,0 +1,7 @@
+organization=hafizhbimo
+projectKey=hafizhBimo_starcrew-dotnet
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.66148
+dashboardUrl=https://sonarcloud.io/dashboard?id=hafizhBimo_starcrew-dotnet
+ceTaskId=AZidxtl8c9d8HpIE_Phb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZidxtl8c9d8HpIE_Phb

@@ -1,0 +1,13 @@
+﻿/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/Program.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/PostsController.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/Controllers/UsersController.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/appDbContext.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/posts/post.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/src/models/users/user.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/obj/Debug/net9.0/starcrew-dotnet.GlobalUsings.g.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/obj/Debug/net9.0/starcrew-dotnet.AssemblyInfo.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/obj/Debug/net9.0/starcrew-dotnet.MvcApplicationPartsAssemblyInfo.cs
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/appsettings.Development.json
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/appsettings.json
+/Users/hafizhbimo/Documents/project/starcrew/starcrew-dotnet/Properties/launchSettings.json
